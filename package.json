@@ -1,0 +1,15 @@
+{
+  "name": "model",
+  "version": "1.0.0",
+  "description": "Simple Angular service to handle data transfer with a REST api.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shemam/model.git"
+  },
+  "author": "Shermam Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shemam/model/issues"
+  },
+  "homepage": "https://github.com/shemam/model#readme"
+}
